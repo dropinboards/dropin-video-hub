@@ -1,4 +1,4 @@
-import os,json,datetime,urllib.parse,urllib.request,pathlib
+import os,json,datetime,urllib.parse,urllib.request,urllib.error,pathlib
 ROOT=pathlib.Path(__file__).parent
 KEY=os.environ.get('YOUTUBE_API_KEY','')
 if not KEY: raise SystemExit('Missing YOUTUBE_API_KEY GitHub Actions secret')
@@ -9,8 +9,21 @@ for sport,style,q in QUERIES:
  params=urllib.parse.urlencode({'part':'snippet','type':'video','order':'date','maxResults':25,'publishedAfter':after,'q':q,'key':KEY})
  try:
   with urllib.request.urlopen('https://www.googleapis.com/youtube/v3/search?'+params,timeout=25) as r: data=json.load(r)
+ except urllib.error.HTTPError as e:
+  body=e.read().decode('utf-8','replace')
+  try:
+   details=json.loads(body).get('error',{})
+   msg=details.get('message','Unknown API error')
+   reasons=', '.join(x.get('reason','') for x in details.get('errors',[]))
+  except (ValueError,TypeError):
+   msg=body[:350];reasons=''
+  # Never print the request URL: it contains the API key.
+  print(f'Search failed: {q} | HTTP {e.code} | {reasons} | {msg}',flush=True)
+  if e.code in (400,401,403):
+   raise SystemExit('YouTube API rejected the request; review the error above and verify the API key, enabled API and key restrictions')
+  continue
  except Exception as e:
-  print('Search failed:',q,e);continue
+  print('Search failed:',q,type(e).__name__,str(e),flush=True);continue
  for v in data.get('items',[]):
   vid=v.get('id',{}).get('videoId');s=v.get('snippet',{})
   if not vid:continue
