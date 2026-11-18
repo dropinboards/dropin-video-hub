@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-18T17:39:50.982611+00:00",
+  "updatedAt": "2026-11-18T19:13:31.033458+00:00",
   "videos": [
+    {
+      "id": "JhxXfWmwgjI",
+      "title": "Shred | Full Snowboarding Comedy Movie HD | Tom Green &amp; Dave England | Extreme Sports",
+      "channel": "RUNTIME ACTION",
+      "published": "2026-11-18T18:00:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/JhxXfWmwgjI/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=JhxXfWmwgjI"
+    },
     {
       "id": "kuiwOdo_y8c",
       "title": "THE ARCTIC CLIMB – Full film out Thursday 19.11, 6 PM 🏔️ #snowboard #splitboard #lyngenalps",
@@ -132,6 +144,18 @@
         "competition"
       ],
       "url": "https://www.youtube.com/watch?v=zSQKPPDObgk"
+    },
+    {
+      "id": "rhRdTggsibA",
+      "title": "Totally WHITEOUT! #snowboarding #freeride #backcountry",
+      "channel": "Powder Hero",
+      "published": "2026-11-13T11:54:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/rhRdTggsibA/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "backcountry"
+      ],
+      "url": "https://www.youtube.com/watch?v=rhRdTggsibA"
     },
     {
       "id": "j1xjt4K0g_8",
@@ -302,6 +326,18 @@
       "url": "https://www.youtube.com/watch?v=AvCZflNIOyM"
     },
     {
+      "id": "FB-G6bEMJIY",
+      "title": "Julian Jeang-Agliardi Wins It! 🇺🇸 | Skateboarding - Men&#39;s Street Final #Dakar2026",
+      "channel": "Olympic Games",
+      "published": "2026-11-04T20:30:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/FB-G6bEMJIY/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=FB-G6bEMJIY"
+    },
+    {
       "id": "njtAdRqrba0",
       "title": "RE-𝙇𝙄𝙑𝙀 Summer Youth Olympics! Men&#39;s Street Skateboarding Final | #Dakar2026",
       "channel": "Olympic Games",
@@ -387,18 +423,6 @@
       "url": "https://www.youtube.com/watch?v=uf3HUUjIZdg"
     },
     {
-      "id": "TvQP5zfcmSM",
-      "title": "Taihou Tokura&#39;s “T4” Part",
-      "channel": "ThrasherMagazine",
-      "published": "2026-11-02T17:00:20Z",
-      "thumbnail": "https://i.ytimg.com/vi/TvQP5zfcmSM/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "street"
-      ],
-      "url": "https://www.youtube.com/watch?v=TvQP5zfcmSM"
-    },
-    {
       "id": "mz9rJeLJV5w",
       "title": "SLS Paris 2026 Men&#39;s Final | FULL COMPETITION",
       "channel": "SLS",
@@ -433,6 +457,18 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=-vp9GqVLino"
+    },
+    {
+      "id": "mkTU-LTmjBs",
+      "title": "SLS Paris 2026 Women&#39;s Final | FULL COMPETITION",
+      "channel": "SLS",
+      "published": "2026-10-30T19:00:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/mkTU-LTmjBs/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=mkTU-LTmjBs"
     },
     {
       "id": "zruR5pqHpZs",
@@ -481,6 +517,18 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=Bc4RtS2r-eY"
+    },
+    {
+      "id": "qTq10U0LJ5Q",
+      "title": "SLS Paris 2026 Men&#39;s Knockout Round - Group 3 | FULL COMPETITION",
+      "channel": "SLS",
+      "published": "2026-10-27T13:00:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/qTq10U0LJ5Q/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=qTq10U0LJ5Q"
     },
     {
       "id": "jDngwICTcZA",
@@ -628,6 +676,18 @@
       "url": "https://www.youtube.com/watch?v=8EemulteBmA"
     },
     {
+      "id": "TKvQnZjz97c",
+      "title": "World Championships 2026 - Men&#39;s STREET FINAL",
+      "channel": "firecracker3000",
+      "published": "2026-10-19T23:45:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/TKvQnZjz97c/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=TKvQnZjz97c"
+    },
+    {
       "id": "L8tTh4-scuA",
       "title": "Freerider Pro: Der neue Skitourenrucksack",
       "channel": "deuter",
@@ -650,6 +710,18 @@
         "backcountry"
       ],
       "url": "https://www.youtube.com/watch?v=KX9kX4JQMGk"
+    },
+    {
+      "id": "p0jHtABlld0",
+      "title": "TAMPA AM 2026 | Finals 🛹 ",
+      "channel": "GypoTravels",
+      "published": "2026-10-18T23:09:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/p0jHtABlld0/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=p0jHtABlld0"
     },
     {
       "id": "GEYLGuVlxso",
@@ -698,18 +770,6 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=Cf9urKuj0Oc"
-    },
-    {
-      "id": "pgjqSbADGec",
-      "title": "UMA NOVA RAYSSA LEAL SE APRESENTA NO MUNDIAL DE SKATE STREET 2026",
-      "channel": "Olimpíada Todo Dia",
-      "published": "2026-10-18T11:00:30Z",
-      "thumbnail": "https://i.ytimg.com/vi/pgjqSbADGec/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=pgjqSbADGec"
     },
     {
       "id": "8SV54KvVK3o",
@@ -821,6 +881,18 @@
       "url": "https://www.youtube.com/watch?v=mSI50za_3TU"
     },
     {
+      "id": "yWM5JALoBqw",
+      "title": "SLS Paris 2026 Men&#39;s Knockout Round - Group 1 | FULL COMPETITION",
+      "channel": "SLS",
+      "published": "2026-10-16T19:00:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/yWM5JALoBqw/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=yWM5JALoBqw"
+    },
+    {
       "id": "4Ya18-4d-rQ",
       "title": "Skateboarding a water gap🌊🛹🎥 ",
       "channel": "Strive",
@@ -843,18 +915,6 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=8PmUFPhswPM"
-    },
-    {
-      "id": "t4NPy6vlCBA",
-      "title": "Men&#39;s Street Qualifier Part Two | Skateboarding World Championships | WSG ASU26",
-      "channel": "World Skate SB",
-      "published": "2026-10-15T16:56:32Z",
-      "thumbnail": "https://i.ytimg.com/vi/t4NPy6vlCBA/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=t4NPy6vlCBA"
     },
     {
       "id": "1nPcVJtrCyQ",
@@ -881,18 +941,6 @@
       "url": "https://www.youtube.com/watch?v=gI_rRXl4Qoc"
     },
     {
-      "id": "PD2ZLP67UaE",
-      "title": "thirtytwo snowboards presents Snafu&#39;d",
-      "channel": "thirtytwo",
-      "published": "2026-10-15T04:05:55Z",
-      "thumbnail": "https://i.ytimg.com/vi/PD2ZLP67UaE/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=PD2ZLP67UaE"
-    },
-    {
       "id": "pcjwHXYGIEc",
       "title": "Dakine | Laurent De Martin — Deep Days in Japan, 16mm",
       "channel": "Dakine",
@@ -917,18 +965,6 @@
       "url": "https://www.youtube.com/watch?v=j-q9ph7yoCE"
     },
     {
-      "id": "9QWClH5uZuI",
-      "title": "World Championships 2026 - Men’s PARK FINAL",
-      "channel": "firecracker3000",
-      "published": "2026-10-14T20:32:50Z",
-      "thumbnail": "https://i.ytimg.com/vi/9QWClH5uZuI/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=9QWClH5uZuI"
-    },
-    {
       "id": "-lbcZ-KwULo",
       "title": "NORTHBOUND - Street Snowboarding with Jesse Augustinus",
       "channel": "Red Bull Snow",
@@ -939,18 +975,6 @@
         "street"
       ],
       "url": "https://www.youtube.com/watch?v=-lbcZ-KwULo"
-    },
-    {
-      "id": "1EbWZtWIZ9U",
-      "title": "Eden&#39;s Final run at World Championships #Scootering #bluntscooters #AOSV6 #Envyscooters #Worldskate",
-      "channel": "Envy Scooters",
-      "published": "2026-10-14T10:18:30Z",
-      "thumbnail": "https://i.ytimg.com/vi/1EbWZtWIZ9U/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=1EbWZtWIZ9U"
     },
     {
       "id": "iCaVd6YvKQM",
@@ -1001,18 +1025,6 @@
       "url": "https://www.youtube.com/watch?v=Whe6FUUJU9M"
     },
     {
-      "id": "haYJzULkRBM",
-      "title": "Park Finals | Skateboarding World Championships | WSG ASU26",
-      "channel": "World Skate SB",
-      "published": "2026-10-10T22:16:12Z",
-      "thumbnail": "https://i.ytimg.com/vi/haYJzULkRBM/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=haYJzULkRBM"
-    },
-    {
       "id": "vJb_UQ-EaEU",
       "title": "Mathias Torres Part for Creature Skateboards",
       "channel": "Creature Skateboards",
@@ -1059,18 +1071,6 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=cdMkR_V_2AU"
-    },
-    {
-      "id": "VL_XjvX889g",
-      "title": "Men’s Final SLS Paris 2026",
-      "channel": "firecracker3000",
-      "published": "2026-10-06T20:05:09Z",
-      "thumbnail": "https://i.ytimg.com/vi/VL_XjvX889g/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=VL_XjvX889g"
     },
     {
       "id": "OrRp_avAABk",
