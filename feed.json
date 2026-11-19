@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T07:37:45.221878+00:00",
+  "updatedAt": "2026-11-19T13:34:06.929371+00:00",
   "videos": [
     {
       "id": "JhxXfWmwgjI",
@@ -518,30 +518,6 @@
       "url": "https://www.youtube.com/watch?v=Gm7XBdQU6T0"
     },
     {
-      "id": "ke6uAQ5MEHw",
-      "title": "Extreme Backcountry Snowboarding in Colorado | Before It Melts (Full Film)",
-      "channel": "Adventure Sports TV",
-      "published": "2026-10-20T22:00:25Z",
-      "thumbnail": "https://i.ytimg.com/vi/ke6uAQ5MEHw/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=ke6uAQ5MEHw"
-    },
-    {
-      "id": "2IHqlOyW0c0",
-      "title": "World Skate Games Asunción 2026 | Women&#39;s Street Finals Recap",
-      "channel": "World Skate SB",
-      "published": "2026-10-20T18:44:34Z",
-      "thumbnail": "https://i.ytimg.com/vi/2IHqlOyW0c0/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=2IHqlOyW0c0"
-    },
-    {
       "id": "ob0kYlnKBo4",
       "title": "Did we just find Tony Hawk&#39;s long lost brother? #funny #skateboarding @tryramp",
       "channel": "ClipTheBeat",
@@ -636,6 +612,18 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=Cf9urKuj0Oc"
+    },
+    {
+      "id": "pgjqSbADGec",
+      "title": "UMA NOVA RAYSSA LEAL SE APRESENTA NO MUNDIAL DE SKATE STREET 2026",
+      "channel": "Olimpíada Todo Dia",
+      "published": "2026-10-18T11:00:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/pgjqSbADGec/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=pgjqSbADGec"
     },
     {
       "id": "8SV54KvVK3o",
@@ -805,6 +793,18 @@
         "powder"
       ],
       "url": "https://www.youtube.com/watch?v=gI_rRXl4Qoc"
+    },
+    {
+      "id": "PD2ZLP67UaE",
+      "title": "thirtytwo snowboards presents Snafu&#39;d",
+      "channel": "thirtytwo",
+      "published": "2026-10-15T04:05:55Z",
+      "thumbnail": "https://i.ytimg.com/vi/PD2ZLP67UaE/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=PD2ZLP67UaE"
     },
     {
       "id": "pcjwHXYGIEc",
@@ -1021,18 +1021,6 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=OrRp_avAABk"
-    },
-    {
-      "id": "uU8z5GOoobg",
-      "title": "Mia Brookes 🇬🇧 | From Snowboarder to World Champion 🏆",
-      "channel": "Curvy Spotlight",
-      "published": "2026-10-05T10:09:57Z",
-      "thumbnail": "https://i.ytimg.com/vi/uU8z5GOoobg/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=uU8z5GOoobg"
     }
   ]
 }
