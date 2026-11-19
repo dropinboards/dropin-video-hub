@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-19T13:34:06.929371+00:00",
+  "updatedAt": "2026-11-19T19:15:26.019864+00:00",
   "videos": [
+    {
+      "id": "CvkvhD4ezso",
+      "title": "¡ROMAN YA ES PRO! ESTA ES LA VIDEOPART CON LA QUE LO ANUNCIARON",
+      "channel": "Aaron Vega TV",
+      "published": "2026-11-19T17:00:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/CvkvhD4ezso/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "street"
+      ],
+      "url": "https://www.youtube.com/watch?v=CvkvhD4ezso"
+    },
+    {
+      "id": "waZBDPNFcDg",
+      "title": "He Sold Everything to Snowboard FULL TIME! 🚐 Keystone Laps with Chris Nabell 🏂 This Week&#39;s Adventure",
+      "channel": "trailertom",
+      "published": "2026-11-19T14:30:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/waZBDPNFcDg/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=waZBDPNFcDg"
+    },
     {
       "id": "JhxXfWmwgjI",
       "title": "Shred | Full Snowboarding Comedy Movie HD | Tom Green &amp; Dave England | Extreme Sports",
@@ -795,18 +819,6 @@
       "url": "https://www.youtube.com/watch?v=gI_rRXl4Qoc"
     },
     {
-      "id": "PD2ZLP67UaE",
-      "title": "thirtytwo snowboards presents Snafu&#39;d",
-      "channel": "thirtytwo",
-      "published": "2026-10-15T04:05:55Z",
-      "thumbnail": "https://i.ytimg.com/vi/PD2ZLP67UaE/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=PD2ZLP67UaE"
-    },
-    {
       "id": "pcjwHXYGIEc",
       "title": "Dakine | Laurent De Martin — Deep Days in Japan, 16mm",
       "channel": "Dakine",
@@ -1009,18 +1021,6 @@
         "competition"
       ],
       "url": "https://www.youtube.com/watch?v=4DSMmCsWoOA"
-    },
-    {
-      "id": "OrRp_avAABk",
-      "title": "BRIGHTSIDE SKATE SUPPLY PROMO 2026",
-      "channel": "Zach Hutchcroft",
-      "published": "2026-10-05T17:35:41Z",
-      "thumbnail": "https://i.ytimg.com/vi/OrRp_avAABk/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=OrRp_avAABk"
     }
   ]
 }
