@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T19:13:31.033458+00:00",
+  "updatedAt": "2026-11-19T01:30:08.305807+00:00",
   "videos": [
     {
       "id": "JhxXfWmwgjI",
@@ -38,6 +38,18 @@
       "url": "https://www.youtube.com/watch?v=ut-MNKTpltY"
     },
     {
+      "id": "6bcr7hxroW0",
+      "title": "SLINGSHOT | Salomon Snowboards ft. Blake Moller &amp; Nils Mindnich",
+      "channel": "Salomon Snowboards",
+      "published": "2026-11-17T15:30:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/6bcr7hxroW0/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=6bcr7hxroW0"
+    },
+    {
       "id": "pC12lDRLAM4",
       "title": "2026   Decent Backcountry Snowboarding Movie Trailer 2 -  11.18.26 Premiere",
       "channel": "baksideDisaster",
@@ -60,18 +72,6 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=MEYC0yrbZB4"
-    },
-    {
-      "id": "f1PFoEyZoLo",
-      "title": "The Girl Everyone Hated | Kirsten Prout (Kyle XY) | DRAMA | Full Movie in English",
-      "channel": "Boxoffice | DRAMA | Full Movies",
-      "published": "2026-11-16T20:00:32Z",
-      "thumbnail": "https://i.ytimg.com/vi/f1PFoEyZoLo/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=f1PFoEyZoLo"
     },
     {
       "id": "hAmEBwqbz5Q",
@@ -144,18 +144,6 @@
         "competition"
       ],
       "url": "https://www.youtube.com/watch?v=zSQKPPDObgk"
-    },
-    {
-      "id": "rhRdTggsibA",
-      "title": "Totally WHITEOUT! #snowboarding #freeride #backcountry",
-      "channel": "Powder Hero",
-      "published": "2026-11-13T11:54:02Z",
-      "thumbnail": "https://i.ytimg.com/vi/rhRdTggsibA/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "backcountry"
-      ],
-      "url": "https://www.youtube.com/watch?v=rhRdTggsibA"
     },
     {
       "id": "j1xjt4K0g_8",
@@ -758,18 +746,6 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=0M08tfDTl-0"
-    },
-    {
-      "id": "Cf9urKuj0Oc",
-      "title": "CHASING THE PERFECT SHOT - A SNOWBOARD FILM BY 986.PRODUCTIONS (FULL FILM)",
-      "channel": "986 Productions",
-      "published": "2026-10-18T15:00:33Z",
-      "thumbnail": "https://i.ytimg.com/vi/Cf9urKuj0Oc/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=Cf9urKuj0Oc"
     },
     {
       "id": "8SV54KvVK3o",
