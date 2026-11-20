@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T07:35:35.662864+00:00",
+  "updatedAt": "2026-11-20T13:29:21.428089+00:00",
   "videos": [
     {
       "id": "CvkvhD4ezso",
@@ -156,6 +156,18 @@
         "competition"
       ],
       "url": "https://www.youtube.com/watch?v=zSQKPPDObgk"
+    },
+    {
+      "id": "EnObKjyNi94",
+      "title": "Where Is Your First Day This Ski Season? #snowboarding #palisades",
+      "channel": "Rotems Adventures",
+      "published": "2026-11-13T18:00:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/EnObKjyNi94/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=EnObKjyNi94"
     },
     {
       "id": "ayPyE7W44gA",
@@ -540,18 +552,6 @@
         "street"
       ],
       "url": "https://www.youtube.com/watch?v=jszShYCUD_w"
-    },
-    {
-      "id": "Gm7XBdQU6T0",
-      "title": "FRIGGIN&#39; FORTY  |  A Snowboard Short Film",
-      "channel": "Mark Sollors",
-      "published": "2026-10-22T22:00:14Z",
-      "thumbnail": "https://i.ytimg.com/vi/Gm7XBdQU6T0/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=Gm7XBdQU6T0"
     },
     {
       "id": "ob0kYlnKBo4",
