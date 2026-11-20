@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T01:25:48.429118+00:00",
+  "updatedAt": "2026-11-20T07:35:35.662864+00:00",
   "videos": [
     {
       "id": "CvkvhD4ezso",
@@ -216,18 +216,6 @@
         "street"
       ],
       "url": "https://www.youtube.com/watch?v=eSRWXLyk6Ss"
-    },
-    {
-      "id": "60G43Gkv5sU",
-      "title": "Roope Rautiainen Full Part",
-      "channel": "The Bomb Hole Podcast",
-      "published": "2026-11-09T13:59:34Z",
-      "thumbnail": "https://i.ytimg.com/vi/60G43Gkv5sU/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "street"
-      ],
-      "url": "https://www.youtube.com/watch?v=60G43Gkv5sU"
     },
     {
       "id": "H8hET3XbuJw",
@@ -1021,18 +1009,6 @@
         "competition"
       ],
       "url": "https://www.youtube.com/watch?v=VL_XjvX889g"
-    },
-    {
-      "id": "4DSMmCsWoOA",
-      "title": "Skateboard downhill  | WS Games Asunción 2026",
-      "channel": "World Skate",
-      "published": "2026-10-06T01:42:38Z",
-      "thumbnail": "https://i.ytimg.com/vi/4DSMmCsWoOA/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=4DSMmCsWoOA"
     }
   ]
 }
