@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T07:28:13.608941+00:00",
+  "updatedAt": "2026-11-22T13:13:47.704637+00:00",
   "videos": [
     {
       "id": "6v2HwdHroIM",
@@ -12,18 +12,6 @@
         "powder"
       ],
       "url": "https://www.youtube.com/watch?v=6v2HwdHroIM"
-    },
-    {
-      "id": "94VAhki4S-0",
-      "title": "Men&#39;s Quarterfinal | WST World Cup Utsunomiya Street 2026",
-      "channel": "World Skate SB",
-      "published": "2026-11-21T11:57:23Z",
-      "thumbnail": "https://i.ytimg.com/vi/94VAhki4S-0/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=94VAhki4S-0"
     },
     {
       "id": "CvkvhD4ezso",
@@ -48,6 +36,18 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=waZBDPNFcDg"
+    },
+    {
+      "id": "JhxXfWmwgjI",
+      "title": "Shred | Full Snowboarding Comedy Movie HD | Tom Green &amp; Dave England | Extreme Sports",
+      "channel": "RUNTIME ACTION",
+      "published": "2026-11-18T18:00:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/JhxXfWmwgjI/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=JhxXfWmwgjI"
     },
     {
       "id": "kuiwOdo_y8c",
@@ -254,6 +254,18 @@
       "url": "https://www.youtube.com/watch?v=eSRWXLyk6Ss"
     },
     {
+      "id": "8JB8p7ASyCg",
+      "title": "CIRCUITO BRASIL DE SKATE ENCERRA TEMPORADA EM SALVADOR | TVE NOTÍCIAS 09/11/2026",
+      "channel": "TVE Bahia",
+      "published": "2026-11-09T22:31:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/8JB8p7ASyCg/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=8JB8p7ASyCg"
+    },
+    {
       "id": "YiKE-WxyLyk",
       "title": "CONNEXION [Official] full length",
       "channel": "Parallaxic Production",
@@ -314,6 +326,18 @@
       "url": "https://www.youtube.com/watch?v=Rg-1S4U2op0"
     },
     {
+      "id": "MTD4Atb-RyE",
+      "title": "CIRCUITO BB DE SKATE - SALVADOR - SEMIFINAIS E FINAIS",
+      "channel": "SKATE BRASIL",
+      "published": "2026-11-08T21:19:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/MTD4Atb-RyE/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=MTD4Atb-RyE"
+    },
+    {
       "id": "M_BWKvOdwL0",
       "title": "The Craziest snowboarding I’ve ever filmed #snowboarding",
       "channel": "Theprocam",
@@ -338,6 +362,18 @@
       "url": "https://www.youtube.com/watch?v=PWM-kgXGsWc"
     },
     {
+      "id": "t8h1wcd44Sk",
+      "title": "Exposure Skate 2026: Day 1 Livestream | X Games",
+      "channel": "X Games",
+      "published": "2026-11-08T00:37:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/t8h1wcd44Sk/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=t8h1wcd44Sk"
+    },
+    {
       "id": "9g8sSMnMYcA",
       "title": "Snowboard Showdown 🏂 | Grumble Bear | Full Episode | 🐻🍯 Cartoon for Kids",
       "channel": "Grumble Bear",
@@ -360,6 +396,18 @@
         "street"
       ],
       "url": "https://www.youtube.com/watch?v=GXe6R2bf2HQ"
+    },
+    {
+      "id": "AvCZflNIOyM",
+      "title": "Death Skateboards | Hand Me Downs | Full Movie",
+      "channel": "The Skateboarder's Companion",
+      "published": "2026-11-06T12:33:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/AvCZflNIOyM/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=AvCZflNIOyM"
     },
     {
       "id": "njtAdRqrba0",
@@ -456,6 +504,18 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=uf3HUUjIZdg"
+    },
+    {
+      "id": "TvQP5zfcmSM",
+      "title": "Taihou Tokura&#39;s “T4” Part",
+      "channel": "ThrasherMagazine",
+      "published": "2026-11-02T17:00:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/TvQP5zfcmSM/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "street"
+      ],
+      "url": "https://www.youtube.com/watch?v=TvQP5zfcmSM"
     },
     {
       "id": "mz9rJeLJV5w",
@@ -578,18 +638,6 @@
       "url": "https://www.youtube.com/watch?v=Bc4RtS2r-eY"
     },
     {
-      "id": "jDngwICTcZA",
-      "title": "PinPin 5 Watch Party Livestream snowboard film",
-      "channel": "trailertom",
-      "published": "2026-10-26T07:49:59Z",
-      "thumbnail": "https://i.ytimg.com/vi/jDngwICTcZA/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=jDngwICTcZA"
-    },
-    {
       "id": "cIflmJP47SE",
       "title": "2001 Winter X Games Women Snowboarder X Finals ",
       "channel": "Vladimir Noel",
@@ -638,6 +686,54 @@
       "url": "https://www.youtube.com/watch?v=jszShYCUD_w"
     },
     {
+      "id": "7MjWQRbsGIc",
+      "title": "TYSON PETERSON 2026 BAKER PART!!!",
+      "channel": "Baker Has A Deathwish",
+      "published": "2026-10-21T07:00:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/7MjWQRbsGIc/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "street"
+      ],
+      "url": "https://www.youtube.com/watch?v=7MjWQRbsGIc"
+    },
+    {
+      "id": "2IHqlOyW0c0",
+      "title": "World Skate Games Asunción 2026 | Women&#39;s Street Finals Recap",
+      "channel": "World Skate SB",
+      "published": "2026-10-20T18:44:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/2IHqlOyW0c0/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=2IHqlOyW0c0"
+    },
+    {
+      "id": "-5IpiXXiFvM",
+      "title": "World Skate Games Asunción 2026 | Men&#39;s Street Finals Recap",
+      "channel": "World Skate SB",
+      "published": "2026-10-20T18:44:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/-5IpiXXiFvM/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=-5IpiXXiFvM"
+    },
+    {
+      "id": "TIRXo1Se3ps",
+      "title": "Ronnie Kessner’s ‘Cygnus’ Thunder Part",
+      "channel": "Thunder Trucks",
+      "published": "2026-10-20T15:51:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/TIRXo1Se3ps/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "street"
+      ],
+      "url": "https://www.youtube.com/watch?v=TIRXo1Se3ps"
+    },
+    {
       "id": "ob0kYlnKBo4",
       "title": "Did we just find Tony Hawk&#39;s long lost brother? #funny #skateboarding @tryramp",
       "channel": "ClipTheBeat",
@@ -662,6 +758,18 @@
       "url": "https://www.youtube.com/watch?v=8EemulteBmA"
     },
     {
+      "id": "TKvQnZjz97c",
+      "title": "World Championships 2026 - Men&#39;s STREET FINAL",
+      "channel": "firecracker3000",
+      "published": "2026-10-19T23:45:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/TKvQnZjz97c/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=TKvQnZjz97c"
+    },
+    {
       "id": "L8tTh4-scuA",
       "title": "Freerider Pro: Der neue Skitourenrucksack",
       "channel": "deuter",
@@ -684,6 +792,30 @@
         "backcountry"
       ],
       "url": "https://www.youtube.com/watch?v=KX9kX4JQMGk"
+    },
+    {
+      "id": "E10l-OsH1Xg",
+      "title": "Roller Freestyle Park Final | WS Games Asunción 2026",
+      "channel": "World Skate",
+      "published": "2026-10-19T07:58:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/E10l-OsH1Xg/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=E10l-OsH1Xg"
+    },
+    {
+      "id": "p0jHtABlld0",
+      "title": "TAMPA AM 2026 | Finals 🛹 ",
+      "channel": "GypoTravels",
+      "published": "2026-10-18T23:09:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/p0jHtABlld0/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=p0jHtABlld0"
     },
     {
       "id": "GEYLGuVlxso",
@@ -783,30 +915,6 @@
       "url": "https://www.youtube.com/watch?v=Rp3Bny-y-2c"
     },
     {
-      "id": "gAETNvxg9fo",
-      "title": "GIOVANNI VIANNA E IVAN MONTEIRO NA FINAL",
-      "channel": "Olimpíada Todo Dia",
-      "published": "2026-10-17T22:19:32Z",
-      "thumbnail": "https://i.ytimg.com/vi/gAETNvxg9fo/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=gAETNvxg9fo"
-    },
-    {
-      "id": "7B1p64YgiZk",
-      "title": "FISE SHANGHAI 26 | Skateboarding Pro Men Battles Top 8 - Final",
-      "channel": "FISE",
-      "published": "2026-10-17T20:54:06Z",
-      "thumbnail": "https://i.ytimg.com/vi/7B1p64YgiZk/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=7B1p64YgiZk"
-    },
-    {
       "id": "bm6TN295CYc",
       "title": "Men&#39;s Street Quarterfinal | Skateboarding World Championships | WSG ASU26",
       "channel": "World Skate SB",
@@ -817,18 +925,6 @@
         "competition"
       ],
       "url": "https://www.youtube.com/watch?v=bm6TN295CYc"
-    },
-    {
-      "id": "mSI50za_3TU",
-      "title": "RAYSSA LEAL E MAIS CINCO BRASILEIRAS AVANÇAM NO MUNDIAL DE SKATE STREET",
-      "channel": "Itatiaia Esporte",
-      "published": "2026-10-16T20:15:23Z",
-      "thumbnail": "https://i.ytimg.com/vi/mSI50za_3TU/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=mSI50za_3TU"
     },
     {
       "id": "4Ya18-4d-rQ",
@@ -853,18 +949,6 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=8PmUFPhswPM"
-    },
-    {
-      "id": "t4NPy6vlCBA",
-      "title": "Men&#39;s Street Qualifier Part Two | Skateboarding World Championships | WSG ASU26",
-      "channel": "World Skate SB",
-      "published": "2026-10-15T16:56:32Z",
-      "thumbnail": "https://i.ytimg.com/vi/t4NPy6vlCBA/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=t4NPy6vlCBA"
     },
     {
       "id": "1nPcVJtrCyQ",
@@ -915,18 +999,6 @@
       "url": "https://www.youtube.com/watch?v=j-q9ph7yoCE"
     },
     {
-      "id": "9QWClH5uZuI",
-      "title": "World Championships 2026 - Men’s PARK FINAL",
-      "channel": "firecracker3000",
-      "published": "2026-10-14T20:32:50Z",
-      "thumbnail": "https://i.ytimg.com/vi/9QWClH5uZuI/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=9QWClH5uZuI"
-    },
-    {
       "id": "-lbcZ-KwULo",
       "title": "NORTHBOUND - Street Snowboarding with Jesse Augustinus",
       "channel": "Red Bull Snow",
@@ -937,18 +1009,6 @@
         "street"
       ],
       "url": "https://www.youtube.com/watch?v=-lbcZ-KwULo"
-    },
-    {
-      "id": "1EbWZtWIZ9U",
-      "title": "Eden&#39;s Final run at World Championships #Scootering #bluntscooters #AOSV6 #Envyscooters #Worldskate",
-      "channel": "Envy Scooters",
-      "published": "2026-10-14T10:18:30Z",
-      "thumbnail": "https://i.ytimg.com/vi/1EbWZtWIZ9U/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=1EbWZtWIZ9U"
     },
     {
       "id": "iCaVd6YvKQM",
@@ -1009,18 +1069,6 @@
         "powder"
       ],
       "url": "https://www.youtube.com/watch?v=NSCOZ0i5brI"
-    },
-    {
-      "id": "haYJzULkRBM",
-      "title": "Park Finals | Skateboarding World Championships | WSG ASU26",
-      "channel": "World Skate SB",
-      "published": "2026-10-10T22:16:12Z",
-      "thumbnail": "https://i.ytimg.com/vi/haYJzULkRBM/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=haYJzULkRBM"
     },
     {
       "id": "vJb_UQ-EaEU",
