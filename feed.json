@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-22T19:05:45.840670+00:00",
+  "updatedAt": "2026-11-23T01:31:59.502973+00:00",
   "videos": [
+    {
+      "id": "C8c1oEG8TUI",
+      "title": "CLICK HERE FOR THE FULL VIDEO #learntosnowboard",
+      "channel": "Taevis Kapalka",
+      "published": "2026-11-22T20:20:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/C8c1oEG8TUI/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=C8c1oEG8TUI"
+    },
+    {
+      "id": "ydiyKbrmuWc",
+      "title": "Men&#39;s Semifinal | WST World Cup Utsunomiya Street 2026",
+      "channel": "World Skate SB",
+      "published": "2026-11-22T10:27:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/ydiyKbrmuWc/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=ydiyKbrmuWc"
+    },
     {
       "id": "CvkvhD4ezso",
       "title": "¡ROMAN YA ES PRO! ESTA ES LA VIDEOPART CON LA QUE LO ANUNCIARON",
@@ -614,18 +638,6 @@
       "url": "https://www.youtube.com/watch?v=hPh3t1jq5Rk"
     },
     {
-      "id": "pQ8I_5jTVII",
-      "title": "BoltCuttr | FULL MOVIE |",
-      "channel": "Michael Mcdaniel",
-      "published": "2026-10-24T01:06:35Z",
-      "thumbnail": "https://i.ytimg.com/vi/pQ8I_5jTVII/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=pQ8I_5jTVII"
-    },
-    {
       "id": "ob0kYlnKBo4",
       "title": "Did we just find Tony Hawk&#39;s long lost brother? #funny #skateboarding @tryramp",
       "channel": "ClipTheBeat",
@@ -1009,18 +1021,6 @@
         "powder"
       ],
       "url": "https://www.youtube.com/watch?v=NSCOZ0i5brI"
-    },
-    {
-      "id": "haYJzULkRBM",
-      "title": "Park Finals | Skateboarding World Championships | WSG ASU26",
-      "channel": "World Skate SB",
-      "published": "2026-10-10T22:16:12Z",
-      "thumbnail": "https://i.ytimg.com/vi/haYJzULkRBM/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=haYJzULkRBM"
     },
     {
       "id": "vJb_UQ-EaEU",
