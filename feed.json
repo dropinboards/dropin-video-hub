@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T13:38:47.182381+00:00",
+  "updatedAt": "2026-11-23T19:17:19.850920+00:00",
   "videos": [
     {
       "id": "TXVy75Rnhm8",
@@ -626,18 +626,6 @@
       "url": "https://www.youtube.com/watch?v=pQ8I_5jTVII"
     },
     {
-      "id": "Gm7XBdQU6T0",
-      "title": "FRIGGIN&#39; FORTY  |  A Snowboard Short Film",
-      "channel": "Mark Sollors",
-      "published": "2026-10-22T22:00:14Z",
-      "thumbnail": "https://i.ytimg.com/vi/Gm7XBdQU6T0/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=Gm7XBdQU6T0"
-    },
-    {
       "id": "ob0kYlnKBo4",
       "title": "Did we just find Tony Hawk&#39;s long lost brother? #funny #skateboarding @tryramp",
       "channel": "ClipTheBeat",
@@ -720,6 +708,18 @@
         "competition"
       ],
       "url": "https://www.youtube.com/watch?v=vI4PocxQehM"
+    },
+    {
+      "id": "0M08tfDTl-0",
+      "title": "ANIMAL INSTINCT (Full Movie) 4K",
+      "channel": "SWD Prod",
+      "published": "2026-10-18T19:21:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/0M08tfDTl-0/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=0M08tfDTl-0"
     },
     {
       "id": "8SV54KvVK3o",
@@ -805,6 +805,18 @@
         "competition"
       ],
       "url": "https://www.youtube.com/watch?v=7B1p64YgiZk"
+    },
+    {
+      "id": "BV8ifmMusTs",
+      "title": "1ST PLACE SKATEBOARDING PRO MEN BATTLE - FISE SHANGHAI 2026",
+      "channel": "FISE",
+      "published": "2026-10-17T11:44:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/BV8ifmMusTs/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=BV8ifmMusTs"
     },
     {
       "id": "bm6TN295CYc",
@@ -1009,42 +1021,6 @@
         "powder"
       ],
       "url": "https://www.youtube.com/watch?v=NSCOZ0i5brI"
-    },
-    {
-      "id": "haYJzULkRBM",
-      "title": "Park Finals | Skateboarding World Championships | WSG ASU26",
-      "channel": "World Skate SB",
-      "published": "2026-10-10T22:16:12Z",
-      "thumbnail": "https://i.ytimg.com/vi/haYJzULkRBM/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=haYJzULkRBM"
-    },
-    {
-      "id": "vJb_UQ-EaEU",
-      "title": "Mathias Torres Part for Creature Skateboards",
-      "channel": "Creature Skateboards",
-      "published": "2026-10-09T19:00:09Z",
-      "thumbnail": "https://i.ytimg.com/vi/vJb_UQ-EaEU/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "street"
-      ],
-      "url": "https://www.youtube.com/watch?v=vJb_UQ-EaEU"
-    },
-    {
-      "id": "HHA5pGLqHHo",
-      "title": "The new XTU S7 Pro, ready for mountains, coasts and forests",
-      "channel": "XTU CAM",
-      "published": "2026-10-09T18:28:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/HHA5pGLqHHo/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "powder"
-      ],
-      "url": "https://www.youtube.com/watch?v=HHA5pGLqHHo"
     }
   ]
 }
