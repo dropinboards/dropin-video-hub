@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T13:33:21.429071+00:00",
+  "updatedAt": "2026-11-24T19:16:33.542907+00:00",
   "videos": [
     {
       "id": "TXVy75Rnhm8",
@@ -86,6 +86,18 @@
       "url": "https://www.youtube.com/watch?v=MEYC0yrbZB4"
     },
     {
+      "id": "Mr6kDRKWedE",
+      "title": "Max Zimmermann Chasing Powder #FreerideSki #PowderSkiing #ScottSports #Skiing",
+      "channel": "Scott Sports",
+      "published": "2026-11-16T15:15:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/Mr6kDRKWedE/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "powder"
+      ],
+      "url": "https://www.youtube.com/watch?v=Mr6kDRKWedE"
+    },
+    {
       "id": "hAmEBwqbz5Q",
       "title": "Grace",
       "channel": "Entourage",
@@ -132,6 +144,18 @@
         "competition"
       ],
       "url": "https://www.youtube.com/watch?v=siRlW377lRA"
+    },
+    {
+      "id": "UVEGCzrbXNo",
+      "title": "ISOBAR | Full Ski Film",
+      "channel": "Bushcraft Production",
+      "published": "2026-11-14T18:06:47Z",
+      "thumbnail": "https://i.ytimg.com/vi/UVEGCzrbXNo/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=UVEGCzrbXNo"
     },
     {
       "id": "1tKVw2oKWs4",
@@ -228,18 +252,6 @@
         "street"
       ],
       "url": "https://www.youtube.com/watch?v=eSRWXLyk6Ss"
-    },
-    {
-      "id": "YiKE-WxyLyk",
-      "title": "CONNEXION [Official] full length",
-      "channel": "Parallaxic Production",
-      "published": "2026-11-09T18:00:56Z",
-      "thumbnail": "https://i.ytimg.com/vi/YiKE-WxyLyk/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=YiKE-WxyLyk"
     },
     {
       "id": "H8hET3XbuJw",
@@ -446,6 +458,18 @@
       "url": "https://www.youtube.com/watch?v=uf3HUUjIZdg"
     },
     {
+      "id": "TvQP5zfcmSM",
+      "title": "Taihou Tokura&#39;s “T4” Part",
+      "channel": "ThrasherMagazine",
+      "published": "2026-11-02T17:00:20Z",
+      "thumbnail": "https://i.ytimg.com/vi/TvQP5zfcmSM/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "street"
+      ],
+      "url": "https://www.youtube.com/watch?v=TvQP5zfcmSM"
+    },
+    {
       "id": "f1v-L6vhfig",
       "title": "We Can’t Not - A Ski Film Narrated by Sean Bean",
       "channel": "Red Bull Snow",
@@ -612,18 +636,6 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=pQ8I_5jTVII"
-    },
-    {
-      "id": "D92S6oigUKc",
-      "title": "&quot;Where u go I follow&quot; a film by Hayden Tyler",
-      "channel": "Slush the Magazine",
-      "published": "2026-10-23T15:00:02Z",
-      "thumbnail": "https://i.ytimg.com/vi/D92S6oigUKc/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=D92S6oigUKc"
     },
     {
       "id": "ob0kYlnKBo4",
