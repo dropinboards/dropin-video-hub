@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T19:17:19.850920+00:00",
+  "updatedAt": "2026-11-24T01:29:57.976718+00:00",
   "videos": [
     {
       "id": "TXVy75Rnhm8",
@@ -326,18 +326,6 @@
       "url": "https://www.youtube.com/watch?v=9g8sSMnMYcA"
     },
     {
-      "id": "GXe6R2bf2HQ",
-      "title": "Tribute to OD3 - Oliver Dixon 2014 Full Part",
-      "channel": "cockpit snowboarding",
-      "published": "2026-11-07T00:54:15Z",
-      "thumbnail": "https://i.ytimg.com/vi/GXe6R2bf2HQ/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "street"
-      ],
-      "url": "https://www.youtube.com/watch?v=GXe6R2bf2HQ"
-    },
-    {
       "id": "Rb7-8cYlJRA",
       "title": "Travis Rice POV: deep powder pillow line ❄️. One line. No cuts.” #snowboarding #boafitsystem",
       "channel": "BOA Fit System",
@@ -626,6 +614,18 @@
       "url": "https://www.youtube.com/watch?v=pQ8I_5jTVII"
     },
     {
+      "id": "D92S6oigUKc",
+      "title": "&quot;Where u go I follow&quot; a film by Hayden Tyler",
+      "channel": "Slush the Magazine",
+      "published": "2026-10-23T15:00:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/D92S6oigUKc/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=D92S6oigUKc"
+    },
+    {
       "id": "ob0kYlnKBo4",
       "title": "Did we just find Tony Hawk&#39;s long lost brother? #funny #skateboarding @tryramp",
       "channel": "ClipTheBeat",
@@ -710,18 +710,6 @@
       "url": "https://www.youtube.com/watch?v=vI4PocxQehM"
     },
     {
-      "id": "0M08tfDTl-0",
-      "title": "ANIMAL INSTINCT (Full Movie) 4K",
-      "channel": "SWD Prod",
-      "published": "2026-10-18T19:21:28Z",
-      "thumbnail": "https://i.ytimg.com/vi/0M08tfDTl-0/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=0M08tfDTl-0"
-    },
-    {
       "id": "8SV54KvVK3o",
       "title": "Final do Mundial de skate street hoje: Rayssa e Maria Lúcia, horário e onde assistir #Shorts",
       "channel": "Olympic Esportes",
@@ -744,18 +732,6 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=hXJUu1qSBNY"
-    },
-    {
-      "id": "xclV7Oja8gw",
-      "title": "Jagger Eaton&#39;s rarest grind yet",
-      "channel": "Urban Edge Extreme",
-      "published": "2026-10-18T02:48:44Z",
-      "thumbnail": "https://i.ytimg.com/vi/xclV7Oja8gw/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=xclV7Oja8gw"
     },
     {
       "id": "p_HkDok3rUA",
@@ -1021,6 +997,18 @@
         "powder"
       ],
       "url": "https://www.youtube.com/watch?v=NSCOZ0i5brI"
+    },
+    {
+      "id": "haYJzULkRBM",
+      "title": "Park Finals | Skateboarding World Championships | WSG ASU26",
+      "channel": "World Skate SB",
+      "published": "2026-10-10T22:16:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/haYJzULkRBM/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=haYJzULkRBM"
     }
   ]
 }
