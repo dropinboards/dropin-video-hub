@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-24T19:16:33.542907+00:00",
+  "updatedAt": "2026-11-25T01:36:11.829393+00:00",
   "videos": [
+    {
+      "id": "jFd8xwPRJWU",
+      "title": "Shades of Snow - Arctic Lines | Full Film",
+      "channel": "Antti Autti",
+      "published": "2026-11-23T14:13:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/jFd8xwPRJWU/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=jFd8xwPRJWU"
+    },
     {
       "id": "TXVy75Rnhm8",
       "title": "Finals | WST World Cup Utsunomiya Street 2026",
@@ -38,6 +50,18 @@
       "url": "https://www.youtube.com/watch?v=ydiyKbrmuWc"
     },
     {
+      "id": "94VAhki4S-0",
+      "title": "Men&#39;s Quarterfinal | WST World Cup Utsunomiya Street 2026",
+      "channel": "World Skate SB",
+      "published": "2026-11-21T11:57:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/94VAhki4S-0/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=94VAhki4S-0"
+    },
+    {
       "id": "CvkvhD4ezso",
       "title": "¡ROMAN YA ES PRO! ESTA ES LA VIDEOPART CON LA QUE LO ANUNCIARON",
       "channel": "Aaron Vega TV",
@@ -60,6 +84,18 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=kuiwOdo_y8c"
+    },
+    {
+      "id": "smpFnhtj9ws",
+      "title": "My 3 Biggest Drops of Last Season. What&#39;s Yours? #snowboarding #palisades",
+      "channel": "Rotems Adventures",
+      "published": "2026-11-17T18:00:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/smpFnhtj9ws/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=smpFnhtj9ws"
     },
     {
       "id": "jr510ak9EjA",
@@ -170,18 +206,6 @@
       "url": "https://www.youtube.com/watch?v=1tKVw2oKWs4"
     },
     {
-      "id": "zSQKPPDObgk",
-      "title": "SLS Tokyo 2026 | Men&#39;s Final ",
-      "channel": "GypoTravels",
-      "published": "2026-11-14T12:44:31Z",
-      "thumbnail": "https://i.ytimg.com/vi/zSQKPPDObgk/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=zSQKPPDObgk"
-    },
-    {
       "id": "EnObKjyNi94",
       "title": "Where Is Your First Day This Ski Season? #snowboarding #palisades",
       "channel": "Rotems Adventures",
@@ -228,6 +252,18 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=NZYZgN2-pOY"
+    },
+    {
+      "id": "iDCxPGTiAOc",
+      "title": "Skate 3 in GTA 5 | Instant Replay, Fisheye &amp; Film Filters | GTAxSkate Update",
+      "channel": "Manatross",
+      "published": "2026-11-10T22:51:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/iDCxPGTiAOc/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=iDCxPGTiAOc"
     },
     {
       "id": "HboZUfKyN7o",
@@ -506,18 +542,6 @@
       "url": "https://www.youtube.com/watch?v=-vp9GqVLino"
     },
     {
-      "id": "mkTU-LTmjBs",
-      "title": "SLS Paris 2026 Women&#39;s Final | FULL COMPETITION",
-      "channel": "SLS",
-      "published": "2026-10-30T19:00:21Z",
-      "thumbnail": "https://i.ytimg.com/vi/mkTU-LTmjBs/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=mkTU-LTmjBs"
-    },
-    {
       "id": "zruR5pqHpZs",
       "title": "@kevinignacia7646  for BoltCuttr (full movie online now)",
       "channel": "Michael Mcdaniel",
@@ -590,18 +614,6 @@
       "url": "https://www.youtube.com/watch?v=cIflmJP47SE"
     },
     {
-      "id": "nmwfOdBgFQM",
-      "title": "Biophilia: Connections on Snow | Full Film",
-      "channel": "Jeff Kepler",
-      "published": "2026-10-25T22:17:51Z",
-      "thumbnail": "https://i.ytimg.com/vi/nmwfOdBgFQM/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=nmwfOdBgFQM"
-    },
-    {
       "id": "E1Umfl6yyjI",
       "title": "Skateboarding, Swimming and hitting casinos in Niagara Falls 🛹🔥🎥 ",
       "channel": "Strive",
@@ -626,16 +638,16 @@
       "url": "https://www.youtube.com/watch?v=hPh3t1jq5Rk"
     },
     {
-      "id": "pQ8I_5jTVII",
-      "title": "BoltCuttr | FULL MOVIE |",
-      "channel": "Michael Mcdaniel",
-      "published": "2026-10-24T01:06:35Z",
-      "thumbnail": "https://i.ytimg.com/vi/pQ8I_5jTVII/hqdefault.jpg",
-      "sport": "snow",
+      "id": "XHt6iuJxem4",
+      "title": "Ashmita’s AMAZING Overtake! 1000M PRO Speed Skating GOLD 🥇 | Bengaluru District Championship 2026",
+      "channel": "Ashmita Skates",
+      "published": "2026-10-24T09:09:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/XHt6iuJxem4/hqdefault.jpg",
+      "sport": "skate",
       "styles": [
-        "film"
+        "competition"
       ],
-      "url": "https://www.youtube.com/watch?v=pQ8I_5jTVII"
+      "url": "https://www.youtube.com/watch?v=XHt6iuJxem4"
     },
     {
       "id": "ob0kYlnKBo4",
@@ -648,18 +660,6 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=ob0kYlnKBo4"
-    },
-    {
-      "id": "8EemulteBmA",
-      "title": "World Championships 2026 - Women’s STREET FINAL",
-      "channel": "firecracker3000",
-      "published": "2026-10-20T03:24:12Z",
-      "thumbnail": "https://i.ytimg.com/vi/8EemulteBmA/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=8EemulteBmA"
     },
     {
       "id": "TKvQnZjz97c",
@@ -1009,18 +1009,6 @@
         "powder"
       ],
       "url": "https://www.youtube.com/watch?v=NSCOZ0i5brI"
-    },
-    {
-      "id": "haYJzULkRBM",
-      "title": "Park Finals | Skateboarding World Championships | WSG ASU26",
-      "channel": "World Skate SB",
-      "published": "2026-10-10T22:16:12Z",
-      "thumbnail": "https://i.ytimg.com/vi/haYJzULkRBM/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=haYJzULkRBM"
     }
   ]
 }
