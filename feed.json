@@ -1,17 +1,53 @@
 {
-  "updatedAt": "2026-11-25T13:40:00.812292+00:00",
+  "updatedAt": "2026-11-25T19:12:15.820316+00:00",
   "videos": [
+    {
+      "id": "Cg2OFQSyUFI",
+      "title": "Late-Career Gnar: the riders over 40 still giving it everything | Snow Globe full episode",
+      "channel": "Snow Globe",
+      "published": "2026-11-25T18:00:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/Cg2OFQSyUFI/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=Cg2OFQSyUFI"
+    },
+    {
+      "id": "h5jsfsf05M0",
+      "title": "Yuto Horigome wins gold 🥇 in Men’s Skateboard Street Best Trick at #XGames California 2023!",
+      "channel": "IanMohrSb",
+      "published": "2026-11-25T17:00:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/h5jsfsf05M0/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=h5jsfsf05M0"
+    },
     {
       "id": "jFd8xwPRJWU",
       "title": "Shades of Snow - Arctic Lines | Full Film",
       "channel": "Antti Autti",
-      "published": "2026-11-23T14:13:52Z",
+      "published": "2026-11-25T17:00:08Z",
       "thumbnail": "https://i.ytimg.com/vi/jFd8xwPRJWU/hqdefault.jpg",
       "sport": "snow",
       "styles": [
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=jFd8xwPRJWU"
+    },
+    {
+      "id": "3aL7UByIuCQ",
+      "title": "They Tried to Break Her—Her Skating Partner Fell for Her | FULL Drama",
+      "channel": "DramaBinge TV",
+      "published": "2026-11-25T13:59:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/3aL7UByIuCQ/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=3aL7UByIuCQ"
     },
     {
       "id": "TXVy75Rnhm8",
@@ -60,18 +96,6 @@
         "competition"
       ],
       "url": "https://www.youtube.com/watch?v=94VAhki4S-0"
-    },
-    {
-      "id": "CvkvhD4ezso",
-      "title": "¡ROMAN YA ES PRO! ESTA ES LA VIDEOPART CON LA QUE LO ANUNCIARON",
-      "channel": "Aaron Vega TV",
-      "published": "2026-11-19T17:00:23Z",
-      "thumbnail": "https://i.ytimg.com/vi/CvkvhD4ezso/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "street"
-      ],
-      "url": "https://www.youtube.com/watch?v=CvkvhD4ezso"
     },
     {
       "id": "waZBDPNFcDg",
@@ -362,18 +386,6 @@
       "url": "https://www.youtube.com/watch?v=H8hET3XbuJw"
     },
     {
-      "id": "zoGFa_cBexc",
-      "title": "Guy Azulay gets one upped by Guy Mariano in WKND skateboards full length JIT #skateboarding #skit",
-      "channel": "SkateEnsurance",
-      "published": "2026-11-09T04:32:57Z",
-      "thumbnail": "https://i.ytimg.com/vi/zoGFa_cBexc/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=zoGFa_cBexc"
-    },
-    {
       "id": "Ul_mDHXzODI",
       "title": "Can You Snowboard in a T-Shirt at Palisades Tahoe? #snowboarding #palisades",
       "channel": "Rotems Adventures",
@@ -578,30 +590,6 @@
       "url": "https://www.youtube.com/watch?v=TvQP5zfcmSM"
     },
     {
-      "id": "mz9rJeLJV5w",
-      "title": "SLS Paris 2026 Men&#39;s Final | FULL COMPETITION",
-      "channel": "SLS",
-      "published": "2026-11-02T01:35:52Z",
-      "thumbnail": "https://i.ytimg.com/vi/mz9rJeLJV5w/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=mz9rJeLJV5w"
-    },
-    {
-      "id": "f1v-L6vhfig",
-      "title": "We Can’t Not - A Ski Film Narrated by Sean Bean",
-      "channel": "Red Bull Snow",
-      "published": "2026-11-01T17:00:07Z",
-      "thumbnail": "https://i.ytimg.com/vi/f1v-L6vhfig/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=f1v-L6vhfig"
-    },
-    {
       "id": "SpxCrM0vC4U",
       "title": "Arielle Gold&#39;s last run stole the bronze",
       "channel": "Alpine Edge TV",
@@ -624,18 +612,6 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=-vp9GqVLino"
-    },
-    {
-      "id": "mkTU-LTmjBs",
-      "title": "SLS Paris 2026 Women&#39;s Final | FULL COMPETITION",
-      "channel": "SLS",
-      "published": "2026-10-30T19:00:21Z",
-      "thumbnail": "https://i.ytimg.com/vi/mkTU-LTmjBs/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=mkTU-LTmjBs"
     },
     {
       "id": "Q9aZKt1FV_8",
@@ -684,6 +660,18 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=E1Umfl6yyjI"
+    },
+    {
+      "id": "XHt6iuJxem4",
+      "title": "Ashmita’s AMAZING Overtake! 1000M PRO Speed Skating GOLD 🥇 | Bengaluru District Championship 2026",
+      "channel": "Ashmita Skates",
+      "published": "2026-10-24T09:09:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/XHt6iuJxem4/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=XHt6iuJxem4"
     },
     {
       "id": "TIRXo1Se3ps",
@@ -780,18 +768,6 @@
         "competition"
       ],
       "url": "https://www.youtube.com/watch?v=vI4PocxQehM"
-    },
-    {
-      "id": "pgjqSbADGec",
-      "title": "UMA NOVA RAYSSA LEAL SE APRESENTA NO MUNDIAL DE SKATE STREET 2026",
-      "channel": "Olimpíada Todo Dia",
-      "published": "2026-10-18T11:00:30Z",
-      "thumbnail": "https://i.ytimg.com/vi/pgjqSbADGec/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=pgjqSbADGec"
     },
     {
       "id": "8SV54KvVK3o",
@@ -985,6 +961,18 @@
         "powder"
       ],
       "url": "https://www.youtube.com/watch?v=j-q9ph7yoCE"
+    },
+    {
+      "id": "9QWClH5uZuI",
+      "title": "World Championships 2026 - Men’s PARK FINAL",
+      "channel": "firecracker3000",
+      "published": "2026-10-14T20:32:50Z",
+      "thumbnail": "https://i.ytimg.com/vi/9QWClH5uZuI/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=9QWClH5uZuI"
     },
     {
       "id": "-lbcZ-KwULo",
