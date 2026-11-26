@@ -1,18 +1,6 @@
 {
-  "updatedAt": "2026-11-26T07:40:23.300251+00:00",
+  "updatedAt": "2026-11-26T13:38:36.066852+00:00",
   "videos": [
-    {
-      "id": "Og2jmRcxmWQ",
-      "title": "Starlight Rink on Miracle Lake | Will you skate toward hope? | Full Movie",
-      "channel": "Full Blast Movies",
-      "published": "2026-11-25T21:15:40Z",
-      "thumbnail": "https://i.ytimg.com/vi/Og2jmRcxmWQ/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=Og2jmRcxmWQ"
-    },
     {
       "id": "Cg2OFQSyUFI",
       "title": "Late-Career Gnar: the riders over 40 still giving it everything | Snow Globe full episode",
@@ -48,6 +36,18 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=jFd8xwPRJWU"
+    },
+    {
+      "id": "3aL7UByIuCQ",
+      "title": "They Tried to Break Her—Her Skating Partner Fell for Her | FULL Drama",
+      "channel": "DramaBinge TV",
+      "published": "2026-11-25T13:59:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/3aL7UByIuCQ/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=3aL7UByIuCQ"
     },
     {
       "id": "DSe4DduM-uo",
@@ -386,6 +386,18 @@
       "url": "https://www.youtube.com/watch?v=H8hET3XbuJw"
     },
     {
+      "id": "zoGFa_cBexc",
+      "title": "Guy Azulay gets one upped by Guy Mariano in WKND skateboards full length JIT #skateboarding #skit",
+      "channel": "SkateEnsurance",
+      "published": "2026-11-09T04:32:57Z",
+      "thumbnail": "https://i.ytimg.com/vi/zoGFa_cBexc/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=zoGFa_cBexc"
+    },
+    {
       "id": "Ul_mDHXzODI",
       "title": "Can You Snowboard in a T-Shirt at Palisades Tahoe? #snowboarding #palisades",
       "channel": "Rotems Adventures",
@@ -578,16 +590,16 @@
       "url": "https://www.youtube.com/watch?v=uf3HUUjIZdg"
     },
     {
-      "id": "TvQP5zfcmSM",
-      "title": "Taihou Tokura&#39;s “T4” Part",
-      "channel": "ThrasherMagazine",
-      "published": "2026-11-02T17:00:20Z",
-      "thumbnail": "https://i.ytimg.com/vi/TvQP5zfcmSM/hqdefault.jpg",
+      "id": "mz9rJeLJV5w",
+      "title": "SLS Paris 2026 Men&#39;s Final | FULL COMPETITION",
+      "channel": "SLS",
+      "published": "2026-11-02T01:35:52Z",
+      "thumbnail": "https://i.ytimg.com/vi/mz9rJeLJV5w/hqdefault.jpg",
       "sport": "skate",
       "styles": [
-        "street"
+        "competition"
       ],
-      "url": "https://www.youtube.com/watch?v=TvQP5zfcmSM"
+      "url": "https://www.youtube.com/watch?v=mz9rJeLJV5w"
     },
     {
       "id": "SpxCrM0vC4U",
@@ -612,6 +624,18 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=-vp9GqVLino"
+    },
+    {
+      "id": "mkTU-LTmjBs",
+      "title": "SLS Paris 2026 Women&#39;s Final | FULL COMPETITION",
+      "channel": "SLS",
+      "published": "2026-10-30T19:00:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/mkTU-LTmjBs/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=mkTU-LTmjBs"
     },
     {
       "id": "Q9aZKt1FV_8",
@@ -660,18 +684,6 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=E1Umfl6yyjI"
-    },
-    {
-      "id": "XHt6iuJxem4",
-      "title": "Ashmita’s AMAZING Overtake! 1000M PRO Speed Skating GOLD 🥇 | Bengaluru District Championship 2026",
-      "channel": "Ashmita Skates",
-      "published": "2026-10-24T09:09:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/XHt6iuJxem4/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=XHt6iuJxem4"
     },
     {
       "id": "TIRXo1Se3ps",
@@ -768,6 +780,18 @@
         "competition"
       ],
       "url": "https://www.youtube.com/watch?v=vI4PocxQehM"
+    },
+    {
+      "id": "pgjqSbADGec",
+      "title": "UMA NOVA RAYSSA LEAL SE APRESENTA NO MUNDIAL DE SKATE STREET 2026",
+      "channel": "Olimpíada Todo Dia",
+      "published": "2026-10-18T11:00:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/pgjqSbADGec/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=pgjqSbADGec"
     },
     {
       "id": "8SV54KvVK3o",
@@ -903,18 +927,6 @@
       "url": "https://www.youtube.com/watch?v=8PmUFPhswPM"
     },
     {
-      "id": "t4NPy6vlCBA",
-      "title": "Men&#39;s Street Qualifier Part Two | Skateboarding World Championships | WSG ASU26",
-      "channel": "World Skate SB",
-      "published": "2026-10-15T16:56:32Z",
-      "thumbnail": "https://i.ytimg.com/vi/t4NPy6vlCBA/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=t4NPy6vlCBA"
-    },
-    {
       "id": "1nPcVJtrCyQ",
       "title": "Ride All Day, Stay Protected #ScottSports #SkiHelmet #MIPS #Freeride #BackcountrySkiing",
       "channel": "Scott Sports",
@@ -961,18 +973,6 @@
         "powder"
       ],
       "url": "https://www.youtube.com/watch?v=j-q9ph7yoCE"
-    },
-    {
-      "id": "9QWClH5uZuI",
-      "title": "World Championships 2026 - Men’s PARK FINAL",
-      "channel": "firecracker3000",
-      "published": "2026-10-14T20:32:50Z",
-      "thumbnail": "https://i.ytimg.com/vi/9QWClH5uZuI/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=9QWClH5uZuI"
     },
     {
       "id": "-lbcZ-KwULo",
