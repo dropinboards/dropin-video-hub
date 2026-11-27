@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-27T13:33:58.366316+00:00",
+  "updatedAt": "2026-11-27T19:14:43.592577+00:00",
   "videos": [
+    {
+      "id": "sdySodm378A",
+      "title": "MILK with Leon Gütl — the full film at RideON Shredfest Hochfügen | Friday 4 December, from 17:00",
+      "channel": "RideON - Shredfest Hochfügen",
+      "published": "2026-11-27T18:11:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/sdySodm378A/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=sdySodm378A"
+    },
     {
       "id": "0gOH7M50KRE",
       "title": "Gulmarg snowboarding # #gulmarg #himalayantrip #himalayanedges #mountains #travel #skiing # #ski",
@@ -12,18 +24,6 @@
         "powder"
       ],
       "url": "https://www.youtube.com/watch?v=0gOH7M50KRE"
-    },
-    {
-      "id": "TbQmuMIMWeE",
-      "title": "They Tried to Break Her—Her Skating Partner Fell for Her | FULL Drama",
-      "channel": "DramaBinge TV",
-      "published": "2026-11-27T01:19:18Z",
-      "thumbnail": "https://i.ytimg.com/vi/TbQmuMIMWeE/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=TbQmuMIMWeE"
     },
     {
       "id": "Og2jmRcxmWQ",
@@ -72,30 +72,6 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=jFd8xwPRJWU"
-    },
-    {
-      "id": "3aL7UByIuCQ",
-      "title": "They Tried to Break Her—Her Skating Partner Fell for Her | FULL Drama",
-      "channel": "DramaBinge TV",
-      "published": "2026-11-25T13:59:00Z",
-      "thumbnail": "https://i.ytimg.com/vi/3aL7UByIuCQ/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=3aL7UByIuCQ"
-    },
-    {
-      "id": "2jl16x7P7Vg",
-      "title": "They Tried to Break Her—Her Skating Partner Fell for Her | FULL Drama",
-      "channel": "DramaBinge TV",
-      "published": "2026-11-25T11:48:48Z",
-      "thumbnail": "https://i.ytimg.com/vi/2jl16x7P7Vg/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=2jl16x7P7Vg"
     },
     {
       "id": "DSe4DduM-uo",
@@ -372,6 +348,18 @@
         "competition"
       ],
       "url": "https://www.youtube.com/watch?v=j1xjt4K0g_8"
+    },
+    {
+      "id": "Uzm9iSyjgh0",
+      "title": "FISE SHANGHAI 26 | ROLLERBLADING Battles Top 8 - Pro Final",
+      "channel": "Joe Atkinson",
+      "published": "2026-11-11T18:00:08Z",
+      "thumbnail": "https://i.ytimg.com/vi/Uzm9iSyjgh0/hqdefault.jpg",
+      "sport": "skate",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=Uzm9iSyjgh0"
     },
     {
       "id": "YtBYG-jkTqw",
@@ -674,18 +662,6 @@
       "url": "https://www.youtube.com/watch?v=SpxCrM0vC4U"
     },
     {
-      "id": "-vp9GqVLino",
-      "title": "SHADY CREW - ENTRENCHMENT / A Snowboard film from Mt. Baker to Alaska - Full Film 4K",
-      "channel": "Dan Scanlon",
-      "published": "2026-11-01T03:45:52Z",
-      "thumbnail": "https://i.ytimg.com/vi/-vp9GqVLino/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=-vp9GqVLino"
-    },
-    {
       "id": "mkTU-LTmjBs",
       "title": "SLS Paris 2026 Women&#39;s Final | FULL COMPETITION",
       "channel": "SLS",
@@ -951,18 +927,6 @@
       "url": "https://www.youtube.com/watch?v=bm6TN295CYc"
     },
     {
-      "id": "mSI50za_3TU",
-      "title": "RAYSSA LEAL E MAIS CINCO BRASILEIRAS AVANÇAM NO MUNDIAL DE SKATE STREET",
-      "channel": "Itatiaia Esporte",
-      "published": "2026-10-16T20:15:23Z",
-      "thumbnail": "https://i.ytimg.com/vi/mSI50za_3TU/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=mSI50za_3TU"
-    },
-    {
       "id": "4Ya18-4d-rQ",
       "title": "Skateboarding a water gap🌊🛹🎥 ",
       "channel": "Strive",
@@ -1081,18 +1045,6 @@
         "powder"
       ],
       "url": "https://www.youtube.com/watch?v=lpULbScjPTQ"
-    },
-    {
-      "id": "Whe6FUUJU9M",
-      "title": "Mathilde Gremaud Rides for XC Park City",
-      "channel": "X Games",
-      "published": "2026-10-13T18:45:32Z",
-      "thumbnail": "https://i.ytimg.com/vi/Whe6FUUJU9M/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=Whe6FUUJU9M"
     }
   ]
 }
