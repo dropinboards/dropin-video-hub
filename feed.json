@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-28T01:32:49.039466+00:00",
+  "updatedAt": "2026-11-28T07:32:19.382499+00:00",
   "videos": [
+    {
+      "id": "G1khJEVnbrs",
+      "title": "Giant Snowboard jump in the city!",
+      "channel": "Unsanctioned ",
+      "published": "2026-11-27T21:57:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/G1khJEVnbrs/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=G1khJEVnbrs"
+    },
     {
       "id": "sdySodm378A",
       "title": "MILK with Leon Gütl — the full film at RideON Shredfest Hochfügen | Friday 4 December, from 17:00",
@@ -997,18 +1009,6 @@
         "street"
       ],
       "url": "https://www.youtube.com/watch?v=-lbcZ-KwULo"
-    },
-    {
-      "id": "iCaVd6YvKQM",
-      "title": "HALFPIPE: Seunghyun Kim wins The 2026 FIS Freestyle ANZ Cup",
-      "channel": "Liveheats",
-      "published": "2026-10-14T03:00:46Z",
-      "thumbnail": "https://i.ytimg.com/vi/iCaVd6YvKQM/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "competition"
-      ],
-      "url": "https://www.youtube.com/watch?v=iCaVd6YvKQM"
     }
   ]
 }
