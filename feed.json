@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T19:14:43.592577+00:00",
+  "updatedAt": "2026-11-28T01:32:49.039466+00:00",
   "videos": [
     {
       "id": "sdySodm378A",
@@ -722,18 +722,6 @@
       "url": "https://www.youtube.com/watch?v=E1Umfl6yyjI"
     },
     {
-      "id": "TIRXo1Se3ps",
-      "title": "Ronnie Kessner’s ‘Cygnus’ Thunder Part",
-      "channel": "Thunder Trucks",
-      "published": "2026-10-20T15:51:01Z",
-      "thumbnail": "https://i.ytimg.com/vi/TIRXo1Se3ps/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "street"
-      ],
-      "url": "https://www.youtube.com/watch?v=TIRXo1Se3ps"
-    },
-    {
       "id": "ob0kYlnKBo4",
       "title": "Did we just find Tony Hawk&#39;s long lost brother? #funny #skateboarding @tryramp",
       "channel": "ClipTheBeat",
@@ -1021,30 +1009,6 @@
         "competition"
       ],
       "url": "https://www.youtube.com/watch?v=iCaVd6YvKQM"
-    },
-    {
-      "id": "dZ0308T3cys",
-      "title": "Skateboarding as Leatherface - Long line - SUMR Camp - Skate.",
-      "channel": "KillaHavoc",
-      "published": "2026-10-13T23:11:10Z",
-      "thumbnail": "https://i.ytimg.com/vi/dZ0308T3cys/hqdefault.jpg",
-      "sport": "skate",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=dZ0308T3cys"
-    },
-    {
-      "id": "lpULbScjPTQ",
-      "title": "Jess Kimura Chasing Powder in Hokkaido, Japan | Warren Miller’s Days Off",
-      "channel": "Warren Miller Entertainment",
-      "published": "2026-10-13T22:15:22Z",
-      "thumbnail": "https://i.ytimg.com/vi/lpULbScjPTQ/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "powder"
-      ],
-      "url": "https://www.youtube.com/watch?v=lpULbScjPTQ"
     }
   ]
 }
