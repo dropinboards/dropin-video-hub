@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-28T07:32:19.382499+00:00",
+  "updatedAt": "2026-11-28T13:17:26.417585+00:00",
   "videos": [
+    {
+      "id": "QD3j8nB5p3k",
+      "title": "How Do You Film at Full Speed Without Falling? 🤯 #skiing  #filmmaking #shorts",
+      "channel": "Mirko Paoloni",
+      "published": "2026-11-28T10:00:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/QD3j8nB5p3k/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=QD3j8nB5p3k"
+    },
+    {
+      "id": "ulxE1B_MYhs",
+      "title": "Innsbruck (AUT), Men&#39;s &amp; Women&#39;s FK Big Air Finals | FIS Freeski World Cup",
+      "channel": "Ski & Snowboard World Cup",
+      "published": "2026-11-28T07:47:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/ulxE1B_MYhs/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "competition"
+      ],
+      "url": "https://www.youtube.com/watch?v=ulxE1B_MYhs"
+    },
     {
       "id": "G1khJEVnbrs",
       "title": "Giant Snowboard jump in the city!",
@@ -168,6 +192,18 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=waZBDPNFcDg"
+    },
+    {
+      "id": "QKwuqUsqVdE",
+      "title": "&quot;The Redneck&quot; A Potato Boys Backcountry Ski Film",
+      "channel": "Potato Boys",
+      "published": "2026-11-18T14:33:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/QKwuqUsqVdE/hqdefault.jpg",
+      "sport": "snow",
+      "styles": [
+        "film"
+      ],
+      "url": "https://www.youtube.com/watch?v=QKwuqUsqVdE"
     },
     {
       "id": "kuiwOdo_y8c",
@@ -612,30 +648,6 @@
         "film"
       ],
       "url": "https://www.youtube.com/watch?v=e8deHGpG_gw"
-    },
-    {
-      "id": "pg34XYQi3CU",
-      "title": "The Smurfs Snowboard in the Forrest | Smurfs: The Lost Village | CLIP 🔥4K",
-      "channel": " Boxoffice ANIMATION ☆ Movie Scenes ",
-      "published": "2026-11-03T14:00:27Z",
-      "thumbnail": "https://i.ytimg.com/vi/pg34XYQi3CU/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=pg34XYQi3CU"
-    },
-    {
-      "id": "esZYuAL14yI",
-      "title": "Short Snowboarding Scuba Diver",
-      "channel": "RumbleBumble",
-      "published": "2026-11-03T08:17:12Z",
-      "thumbnail": "https://i.ytimg.com/vi/esZYuAL14yI/hqdefault.jpg",
-      "sport": "snow",
-      "styles": [
-        "film"
-      ],
-      "url": "https://www.youtube.com/watch?v=esZYuAL14yI"
     },
     {
       "id": "uf3HUUjIZdg",
